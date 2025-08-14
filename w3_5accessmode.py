@@ -1,4 +1,4 @@
-
+#5) Write a program to demonstrate file handling in Python
 with open("file.txt", "w") as f:
     f.write("Hello World")
 
@@ -14,4 +14,6 @@ with open("file.txt", "w+") as f:
     print( f.read())
 
 
-
+#output:
+# Hello World
+# Welcome to Python
