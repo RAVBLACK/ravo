@@ -9,3 +9,6 @@ for i in fruits:
     count[i]=count.get(i,0)+1
 
 print(count)
+
+#output:
+# {'apple': 3, 'banana': 2, 'cherry': 1}
